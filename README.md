@@ -8,3 +8,4 @@ https://kauanrakoski.github.io/pomodorr/
 
 ### Considerations
 Need updates
+Not responsive
